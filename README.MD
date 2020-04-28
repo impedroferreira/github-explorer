@@ -6,12 +6,12 @@
   <img src="public/app.gif">
 </h1>
 
-# 📃 Sobre
-### O projeto **GithubExplorer** é um explorador de repositórios do github, criado no curso **Bootcamp-GoStack**, que acrescentei a funcionalidade do Theme Switcher.
+## 📃 Sobre
+O projeto **GithubExplorer** é um explorador de repositórios do github, criado no curso **Bootcamp-GoStack**, que acrescentei a funcionalidade do Theme Switcher.
 
 ---
 
-# 📁 Como baixar o projeto
+## 📁 Como baixar o projeto
 
 ```bash
 
